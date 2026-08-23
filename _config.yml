@@ -1,0 +1,54 @@
+# ─────────────────────────────────────────────────────────────
+#  EDIT THESE TWO LINES BEFORE YOUR FIRST PUSH
+#  url      = https://<your-github-username>.github.io
+#  baseurl  = /<your-repo-name>
+# ─────────────────────────────────────────────────────────────
+url: "https://jiehou-lab.github.io"
+baseurl: "/urban-ai"
+
+title: "Urban AI"
+tagline: "AI-Driven Decision Support for Real-World Urban Challenges"
+description: >-
+  A 20-hour online, non-credit learning experience at Michigan State University.
+  Open to students from all majors. No planning, coding, GIS, or data science background required.
+
+course:
+  institution: "Michigan State University"
+  program: "MSU AI-Ready Initiative · Category 3 Non-credit Learning Experience"
+  hours: 20
+  meetings: 8
+  meeting_length: "2.5 hours"
+  format: "Online"
+  cohort_label: "Cohort 1 · Fall 2026"
+  cohort_dates: "Tue & Thu, 4:00–6:30 PM ET · Sept 8 – Oct 1, 2026"
+  cohort_status: "Dates tentative — confirm before publishing"
+  register_url: "#"          # registration form
+  d2l_url: "#"               # D2L Brightspace shell
+  zoom_url: "#"              # Zoom meeting link
+  repo_url: "https://github.com/jiehou-lab/urban-ai"
+
+nav:
+  - { title: "Home",           url: "/" }
+  - { title: "Schedule",       url: "/schedule/" }
+  - { title: "Classes",        url: "/classes/" }
+  - { title: "Labs",           url: "/labs/" }
+  - { title: "Deliverables",   url: "/deliverables/" }
+  - { title: "Responsible AI", url: "/responsible-ai/" }
+  - { title: "Resources",      url: "/resources/" }
+  - { title: "Team",           url: "/team/" }
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

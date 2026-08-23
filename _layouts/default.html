@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }} · {{ site.tagline }}{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description | strip_newlines | truncate: 200 }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%2318453B'/><text y='72' x='50' text-anchor='middle' font-size='58' font-family='Georgia,serif' fill='%23fff'>U</text></svg>">
+  {% seo %}
+</head>
+<body>
+
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="masthead">
+  <div class="wrap masthead-inner">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <span class="brand-mark" aria-hidden="true">U<span>AI</span></span>
+      <span class="brand-text">
+        <strong>{{ site.title }}</strong>
+        <small>{{ site.course.institution }}</small>
+      </span>
+    </a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="primary-nav" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+    <nav id="primary-nav" class="nav" aria-label="Primary">
+      {% for item in site.nav %}
+        {% assign u = item.url | relative_url %}
+        <a href="{{ u }}"{% if page.url == item.url or page.parent == item.title %} class="active" aria-current="page"{% endif %}>{{ item.title }}</a>
+      {% endfor %}
+    </nav>
+  </div>
+</header>
+
+{% if page.hero %}
+<section class="hero">
+  <div class="wrap">
+    <p class="eyebrow">{{ site.course.program }}</p>
+    <h1>{{ site.tagline }}</h1>
+    <p class="lede">{{ site.description }}</p>
+    <div class="hero-facts">
+      <div><strong>{{ site.course.hours }} hours</strong><span>{{ site.course.meetings }} × {{ site.course.meeting_length }}</span></div>
+      <div><strong>{{ site.course.format }}</strong><span>Live + async</span></div>
+      <div><strong>Non-credit</strong><span>All majors welcome</span></div>
+      <div><strong>No prerequisites</strong><span>No coding required</span></div>
+    </div>
+    <p class="hero-cta">
+      <a class="btn" href="{{ site.course.register_url }}">Register for {{ site.course.cohort_label }}</a>
+      <a class="btn btn-ghost" href="{{ '/schedule/' | relative_url }}">See the schedule</a>
+    </p>
+    <p class="hero-dates">{{ site.course.cohort_dates }}</p>
+  </div>
+</section>
+{% else %}
+<div class="pagehead">
+  <div class="wrap">
+    {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
+    <h1>{{ page.title }}</h1>
+    {% if page.subtitle %}<p class="lede">{{ page.subtitle }}</p>{% endif %}
+  </div>
+</div>
+{% endif %}
+
+<main id="main" class="wrap main">
+  {{ content }}
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div>
+      <strong>{{ site.title }}</strong>
+      <p>{{ site.tagline }}</p>
+      <p class="muted">{{ site.course.program }}</p>
+    </div>
+    <div>
+      <strong>Course links</strong>
+      <ul>
+        <li><a href="{{ site.course.d2l_url }}">D2L Brightspace</a></li>
+        <li><a href="{{ site.course.zoom_url }}">Live session link</a></li>
+        <li><a href="{{ '/deliverables/' | relative_url }}">Deliverables &amp; rubrics</a></li>
+        <li><a href="{{ '/responsible-ai/' | relative_url }}">Responsible AI policy</a></li>
+      </ul>
+    </div>
+    <div>
+      <strong>Materials</strong>
+      <ul>
+        <li><a href="{{ '/classes/' | relative_url }}">Slides</a></li>
+        <li><a href="{{ '/labs/' | relative_url }}">Labs &amp; notebooks</a></li>
+        <li><a href="{{ '/resources/' | relative_url }}">Templates</a></li>
+        <li><a href="{{ site.course.repo_url }}">Source on GitHub</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="wrap footer-legal">
+    <p>Course materials are shared for educational use. Built with Jekyll and hosted on GitHub Pages.</p>
+  </div>
+</footer>
+
+<script>
+  (function () {
+    var btn = document.querySelector('.nav-toggle');
+    var nav = document.getElementById('primary-nav');
+    if (!btn || !nav) return;
+    btn.addEventListener('click', function () {
+      var open = nav.classList.toggle('open');
+      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    });
+  })();
+</script>
+</body>
+</html>
