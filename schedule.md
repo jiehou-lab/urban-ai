@@ -22,7 +22,8 @@ permalink: /schedule/
   <p><strong>Orientation (60 min)</strong> — Responsible AI Agreement, approved tool guidance, privacy and data
   rules, AI readiness pre-survey, and an introduction to the AI Use Log you will keep all four weeks.<br>
   <strong><a href="{{ '/classes/class-1-1/' | relative_url }}">Class 1-1 (60 min)</a></strong> — Urban analytics,
-  smart cities, and Urban AI; planning decision processes; what a DSS is. <em>Si Chen</em><br>
+  smart cities, and Urban AI; planning decision processes; what a DSS is. 
+    (correction: have some survey questions about use experience of AI tools for document, slides, codings, general questions; get familiar with some web tools we prepared for later course use. ) <em>Si Chen</em><br>
   <strong>Discussion Forum A launches (30 min)</strong> — <em>Urban AI in the wild.</em></p>
   <p class="muted">Due before Meeting 2: signed Responsible AI Agreement + pre-survey.</p>
 </li>
