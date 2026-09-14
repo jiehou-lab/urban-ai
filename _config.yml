@@ -20,7 +20,7 @@ course:
   meeting_length: "2.5 hours"
   format: "Online"
   cohort_label: "Cohort 1 · Fall 2026"
-  cohort_dates: "Tue & Thu, 4:00–6:30 PM ET · Sept 8 – Oct 1, 2026"
+  cohort_dates: "Wed & Fri, 2:30–5:00 PM ET · Oct 28 – Nov 20, 2026"
   cohort_status: "Dates tentative — confirm before publishing"
   register_url: "#"          # registration form
   d2l_url: "#"               # D2L Brightspace shell
