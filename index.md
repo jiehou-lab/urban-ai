@@ -21,7 +21,7 @@ your team, with every AI use documented.
 <div class="grid grid-3" style="margin:2.5rem 0">
   <div class="card">
     <span class="card-num">STRUCTURE</span>
-    <h3>8 meetings, 2.0 hours each</h3>
+    <h3>8 meetings, 2 hours each</h3>
     <p>Twice a week for four weeks. Each meeting pairs a concept class with a hands-on lab and a team breakout.</p>
   </div>
   <div class="card">
