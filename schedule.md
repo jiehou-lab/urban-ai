@@ -81,8 +81,8 @@ permalink: /schedule/
   <p><strong>Class 4-1 (60 min)</strong> — What language models are useful for in a planning workflow,
   grounding answers in real documents, prompting patterns, and how to catch a confident wrong answer.
   <em>Jie Hou</em><br>
-  <strong>Lab (60 min)</strong> — Text mining and clustering on community voice: surface the themes, then
-  check whose voices are over- and under-represented. <em>Jie Hou &amp; Sean</em></p>
+  <strong>Lab (60 min)</strong> — Text mining and clustering on community document datasets: surface the themes, then
+  explore the topics. <em>Jie Hou &amp; Sean</em></p>
 </li>
 
 <li>
