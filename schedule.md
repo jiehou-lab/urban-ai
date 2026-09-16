@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Schedule"
-subtitle: "Eight meetings of 2.5 hours, twice a week for four weeks. Twenty hours total."
+subtitle: "Eight meetings of 2 hours, twice a week for four weeks. Twenty hours total."
 eyebrow: "Cohort 1 · Fall 2026"
 permalink: /schedule/
 ---
