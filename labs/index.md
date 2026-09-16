@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Labs"
+title: "Labs (draft — not published)"
 subtitle: "Eight hands-on labs. Every one runs two ways — click-through or notebook — and both produce the same artifact."
 eyebrow: "Hands-on"
-permalink: /labs/
+permalink: /labs-backup/
 ---
 
 <div class="note">

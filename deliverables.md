@@ -17,7 +17,7 @@ permalink: /deliverables/
 <tr><td>3</td><td>Stakeholder Map + Decision Criteria Matrix</td><td>Team</td><td>Meeting 5</td><td><a href="{{ '/assets/templates/Stakeholder_Map_and_Criteria_Matrix.xlsx' | relative_url }}">.xlsx</a></td></tr>
 <tr><td>4</td><td>AI/DSS Process Log + Scenario Comparison Matrix</td><td>Team</td><td>Meeting 7</td><td><a href="{{ '/assets/templates/Scenario_Comparison_Matrix.xlsx' | relative_url }}">.xlsx</a></td></tr>
 <tr><td>5</td><td>Urban AI Decision-Support Brief + 5-min presentation</td><td>Team</td><td>Meeting 8</td><td><a href="{{ '/assets/templates/Decision_Support_Brief_Template.docx' | relative_url }}">.docx</a></td></tr>
-<tr><td>6</td><td>Individual reflection + post-survey</td><td>Individual</td><td>Meeting 8</td><td>In D2L</td></tr>
+<tr><td>6</td><td>Individual reflection + post-survey</td><td>Individual</td><td>Meeting 8</td><td>On the Teams site</td></tr>
 </tbody>
 </table>
 </div>

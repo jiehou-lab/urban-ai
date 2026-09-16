@@ -16,7 +16,7 @@
 <header class="masthead">
   <div class="wrap masthead-inner">
     <a class="brand" href="{{ '/' | relative_url }}">
-      <span class="brand-mark" aria-hidden="true">U<span>AI</span></span>
+      <span class="brand-mark" aria-hidden="true">UAI</span>
       <span class="brand-text">
         <strong>{{ site.title }}</strong>
         <small>{{ site.course.institution }}</small>
@@ -73,24 +73,6 @@
       <strong>{{ site.title }}</strong>
       <p>{{ site.tagline }}</p>
       <p class="muted">{{ site.course.program }}</p>
-    </div>
-    <div>
-      <strong>Course links</strong>
-      <ul>
-        <li><a href="{{ site.course.d2l_url }}">D2L Brightspace</a></li>
-        <li><a href="{{ site.course.zoom_url }}">Live session link</a></li>
-        <li><a href="{{ '/deliverables/' | relative_url }}">Deliverables &amp; rubrics</a></li>
-        <li><a href="{{ '/responsible-ai/' | relative_url }}">Responsible AI policy</a></li>
-      </ul>
-    </div>
-    <div>
-      <strong>Materials</strong>
-      <ul>
-        <li><a href="{{ '/classes/' | relative_url }}">Slides</a></li>
-        <li><a href="{{ '/labs/' | relative_url }}">Labs &amp; notebooks</a></li>
-        <li><a href="{{ '/resources/' | relative_url }}">Templates</a></li>
-        <li><a href="{{ site.course.repo_url }}">Source on GitHub</a></li>
-      </ul>
     </div>
   </div>
   <div class="wrap footer-legal">

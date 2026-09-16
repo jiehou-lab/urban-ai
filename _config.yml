@@ -9,7 +9,7 @@ baseurl: "/urban-ai"
 title: "Urban AI"
 tagline: "AI-Driven Decision Support for Real-World Urban Challenges"
 description: >-
-  A 20-hour online, non-credit learning experience at Michigan State University.
+  A 16-hour online, non-credit learning experience at Michigan State University.
   Open to students from all majors. No planning, coding, GIS, or data science background required.
 
 course:
@@ -22,20 +22,18 @@ course:
   cohort_label: "Cohort 1 · Fall 2026"
   cohort_dates: "Wed & Fri, 5:30–7:30 PM ET · Oct 28 – Nov 23, 2026"
   cohort_status: "Dates tentative — confirm before publishing"
-  register_url: "#"          # registration form
-  d2l_url: "#"               # D2L Brightspace shell
+  register_url: "https://msu.co1.qualtrics.com/jfe/form/SV_9yizxIOZJVuss6y"   # Qualtrics registration
+  teams_url: ""              # Microsoft Teams site — leave empty until approved; renders as plain underlined text
   zoom_url: "#"              # Zoom meeting link
   repo_url: "https://github.com/jiehou-lab/urban-ai"
 
+# Hidden while under revision (pages still build, just not linked here):
+#   /classes-backup/  /labs-backup/  /responsible-ai-backup/  /resources-backup/
 nav:
-  - { title: "Home",           url: "/" }
-  - { title: "Schedule",       url: "/schedule/" }
-  - { title: "Classes",        url: "/classes/" }
-  - { title: "Labs",           url: "/labs/" }
-  - { title: "Deliverables",   url: "/deliverables/" }
-  - { title: "Responsible AI", url: "/responsible-ai/" }
-  - { title: "Resources",      url: "/resources/" }
-  - { title: "Team",           url: "/team/" }
+  - { title: "Home",         url: "/" }
+  - { title: "Schedule",     url: "/schedule/" }
+  - { title: "Deliverables", url: "/deliverables/" }
+  - { title: "Team",         url: "/team/" }
 
 markdown: kramdown
 kramdown:

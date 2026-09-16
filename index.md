@@ -26,13 +26,13 @@ your team, with every AI use documented.
   </div>
   <div class="card">
     <span class="card-num">LABS</span>
-    <h3>Two tracks, one artifact</h3>
-    <p>Every lab runs no-code by default, with an optional pre-filled Colab notebook for anyone who wants to go deeper.</p>
+    <h3>Hands-on every session</h3>
+    <p>Every lab runs in your browser. Nothing to install, no coding required, whatever your major.</p>
   </div>
   <div class="card">
     <span class="card-num">OUTPUT</span>
-    <h3>Six deliverables</h3>
-    <p>From a responsible-AI agreement in week one to a team decision-support brief and presentation in week four.</p>
+    <h3>A real decision brief</h3>
+    <p>Work with an interdisciplinary team on an actual urban issue and present your recommendation in week four.</p>
   </div>
 </div>
 
@@ -40,19 +40,15 @@ your team, with every AI use documented.
 
 **Section 1 · Urban analytics and AI concepts.** What urban analytics has always done, what smart cities added,
 what AI genuinely changes — and the vocabulary of machine learning, explained once, in plain language.
-[Class 1-1]({{ '/classes/class-1-1/' | relative_url }}) · [Class 1-2]({{ '/classes/class-1-2/' | relative_url }})
 
-**Section 2 · Models and cases.** Site analysis, simulation, optimization, and scenario testing — then four labs
-that let you do each one: text mining, clustering, time series, and classification.
-[Class 2-1]({{ '/classes/class-2-1/' | relative_url }}) · [Class 2-2]({{ '/classes/class-2-2/' | relative_url }})
+**Section 2 · Models and cases.** Site analysis, simulation, optimization, and scenario testing — then labs
+that let you do each one: spatial clustering and time series.
 
 **Section 3 · Decision support systems.** The five DSS categories, deployed cases examined end to end, and how
 to design an AI-enhanced workflow with the human checkpoints in the right places.
-[Class 3-1]({{ '/classes/class-3-1/' | relative_url }}) · [Class 3-2]({{ '/classes/class-3-2/' | relative_url }})
 
-**Section 4 · LLMs and ethics.** Grounding a language model in real planning documents, hunting its
-hallucinations, and treating bias, privacy, transparency, and accountability as design requirements.
-[Class 4-1]({{ '/classes/class-4-1/' | relative_url }}) · [Class 4-2]({{ '/classes/class-4-2/' | relative_url }})
+**Section 4 · LLMs and ethics.** Text mining on community voice, grounding a language model in real
+planning documents, and treating bias, privacy, transparency and accountability as design requirements.
 
 ## What you will be able to do
 
@@ -66,7 +62,7 @@ hallucinations, and treating bias, privacy, transparency, and accountability as 
 <div class="note">
   <strong>No prerequisites — and we mean it</strong>
   <p>If you have never opened a spreadsheet formula, you can complete this course. If you write Python for a
-  living, the Track B notebooks and the sensitivity analyses will still give you something to argue with.</p>
+  living, the sensitivity analyses and the bias audits will still give you something to argue with.</p>
 </div>
 
 ## Get started
@@ -74,7 +70,6 @@ hallucinations, and treating bias, privacy, transparency, and accountability as 
 <p class="hero-cta">
   <a class="btn" href="{{ site.course.register_url }}">Register</a>
   <a class="btn btn-ghost" href="{{ '/schedule/' | relative_url }}">Full schedule</a>
-  <a class="btn btn-ghost" href="{{ '/responsible-ai/' | relative_url }}">Responsible AI policy</a>
 </p>
 
 <p class="muted">{{ site.course.cohort_label }} · {{ site.course.cohort_dates }}<br>

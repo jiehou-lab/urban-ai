@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Classes"
+title: "Classes (draft — not published)"
 subtitle: "Eight classes across four sections, from what Urban AI is to what it owes the people it affects."
 eyebrow: "Course content"
-permalink: /classes/
+permalink: /classes-backup/
 ---
 
 Each class page lists objectives, the session outline, the in-class activity, and a link to the slide deck.
