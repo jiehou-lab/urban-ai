@@ -90,8 +90,7 @@ permalink: /schedule/
   <h3>LLM Lab, Ethics, and Wrap-Up</h3>
   <p><strong>Lab (45 min)</strong> — LLM Lab: grounded versus ungrounded answers over a real planning document,
   and a hallucination log. <em>Jie Hou &amp; Yura</em><br>
-  <strong>Class 4-2 (45 min)</strong> — AI ethics: bias, equity, privacy, transparency, accountability and
-  participation as design requirements rather than a closing slide. <em>Jie Hou</em><br>
+  <strong>Class 4-2 (45 min)</strong> — AI ethics: bias, equity, privacy, transparency, accountability. <em>Jie Hou</em><br>
   <strong>Discussion Forum B and reflection (30 min)</strong> — whose city does the model see? Team share-outs,
   reflection, and the post-survey.</p>
 </li>
