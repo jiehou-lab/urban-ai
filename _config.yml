@@ -15,12 +15,12 @@ description: >-
 course:
   institution: "Michigan State University"
   program: "MSU AI-Ready Initiative · Category 3 Non-credit Learning Experience"
-  hours: 20
+  hours: 16
   meetings: 8
-  meeting_length: "2.5 hours"
+  meeting_length: "2 hours"
   format: "Online"
   cohort_label: "Cohort 1 · Fall 2026"
-  cohort_dates: "Wed & Fri, 2:30–5:00 PM ET · Oct 28 – Nov 20, 2026"
+  cohort_dates: "Wed & Fri, 5:30–7:30 PM ET · Oct 28 – Nov 23, 2026"
   cohort_status: "Dates tentative — confirm before publishing"
   register_url: "#"          # registration form
   d2l_url: "#"               # D2L Brightspace shell
