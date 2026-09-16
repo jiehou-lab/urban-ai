@@ -34,21 +34,23 @@ permalink: /team/
 </div>
 
 <div class="person">
-  <div class="avatar" aria-hidden="true">S</div>
-  <h3>Sean</h3>
-  <p class="role">Graduate Teaching Assistant · Analytics labs</p>
-  <p>Runs the four analytic labs — text mining, clustering, time series, and classification — including the TA
-  demo, the breakout, and the weekly mini-task feedback.</p>
-  <p class="muted">Leads: Labs 1–4, co-leads Lab 0.</p>
+  <div class="avatar" aria-hidden="true">ST</div>
+  <h3>Sean Tian</h3>
+  <p class="role">Graduate Teaching Assistant · Analytics labs<br>
+  School of Planning, Design and Construction, MSU</p>
+  <p>Runs the analytic labs — k-means clustering, spatial clustering, time series and text mining — including
+  the TA demo, the breakout, and feedback on what teams produce.</p>
+  <p class="muted">Leads the labs in Meetings 3, 4 and 7; co-leads the Meeting 2 lab with Dr. Hou.</p>
 </div>
 
 <div class="person">
-  <div class="avatar" aria-hidden="true">Y</div>
-  <h3>Yura</h3>
-  <p class="role">Graduate Teaching Assistant · Decision support labs</p>
-  <p>Runs the decision-support labs — risk response, the DSS AI lab, and the LLM lab — and supports teams as
-  they build their scenario comparisons and final briefs.</p>
-  <p class="muted">Leads: Labs 5–6, co-leads Lab 7.</p>
+  <div class="avatar" aria-hidden="true">YG</div>
+  <h3>Yura Gao</h3>
+  <p class="role">Graduate Teaching Assistant · Decision support labs<br>
+  Department of Computational Mathematics, Science and Engineering, MSU</p>
+  <p>Runs the decision-support labs — risk response and the DSS AI lab — and supports teams as they build
+  their scenario comparisons and final recommendations.</p>
+  <p class="muted">Leads the labs in Meetings 5 and 6; co-leads the Meeting 8 LLM lab with Dr. Hou.</p>
 </div>
 
 </div>

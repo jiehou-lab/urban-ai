@@ -28,11 +28,11 @@ course:
   repo_url: "https://github.com/jiehou-lab/urban-ai"
 
 # Hidden while under revision (pages still build, just not linked here):
-#   /classes-backup/  /labs-backup/  /responsible-ai-backup/  /resources-backup/
+#   /classes-backup/  /labs-backup/  /deliverables-backup/
+#   /responsible-ai-backup/  /resources-backup/
 nav:
   - { title: "Home",         url: "/" }
   - { title: "Schedule",     url: "/schedule/" }
-  - { title: "Deliverables", url: "/deliverables/" }
   - { title: "Team",         url: "/team/" }
 
 markdown: kramdown
