@@ -37,6 +37,17 @@
 {% if page.hero %}
 <section class="hero">
   <div class="wrap">
+    <div class="hero-logos">
+      <a href="https://msu.edu" title="Michigan State University">
+        <img src="{{ '/assets/img/msu.png' | relative_url }}" alt="Michigan State University" class="logo-msu">
+      </a>
+      <a href="https://www.canr.msu.edu/spdc/" title="School of Planning, Design and Construction">
+        <img src="{{ '/assets/img/spdc.png' | relative_url }}" alt="MSU School of Planning, Design and Construction" class="logo-spdc">
+      </a>
+      <a href="https://cmse.msu.edu/" title="Department of Computational Mathematics, Science and Engineering">
+        <img src="{{ '/assets/img/cmse.png' | relative_url }}" alt="MSU Department of Computational Mathematics, Science and Engineering" class="logo-cmse">
+      </a>
+    </div>
     <p class="eyebrow">{{ site.course.program }}</p>
     <h1>{{ site.tagline }}</h1>
     <p class="lede">{{ site.description }}</p>

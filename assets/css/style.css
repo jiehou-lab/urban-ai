@@ -113,7 +113,33 @@ hr { border: 0; border-top: 1px solid var(--rule); margin: 2.5rem 0; }
   border-bottom: 1px solid var(--rule);
   padding: 4.5rem 0 3.5rem;
 }
+.hero .wrap { position: relative; }
 .hero h1 { max-width: 20ch; }
+
+/* Partner logos, top right of the hero */
+.hero-logos {
+  position: absolute; top: -.35rem; right: 2px;
+  display: flex; align-items: center; gap: 1.9rem;
+}
+.hero-logos a { display: block; line-height: 0; opacity: .92; transition: opacity .15s; }
+.hero-logos a:hover { opacity: 1; }
+.hero-logos img { display: block; width: auto; }
+.logo-msu  { height: 80px; }
+.logo-spdc { height: 72px; }
+.logo-cmse { height: 78px; }
+
+@media (max-width: 1080px) {
+  .hero-logos { position: static; margin-bottom: 2rem; gap: 1.3rem; flex-wrap: wrap; }
+}
+@media (max-width: 520px) {
+  .logo-msu { height: 56px; } .logo-spdc, .logo-cmse { height: 50px; }
+}
+
+/* Offered-by row at the foot of the home page */
+.partners { display: flex; flex-wrap: wrap; gap: 1.5rem 2.5rem; margin: 1.2rem 0 0; padding: 0; list-style: none; }
+.partners li { margin: 0; max-width: 30ch; font-size: .95rem; }
+.partners strong { display: block; }
+.partners span { color: var(--ink-faint); font-size: .88rem; }
 .hero .lede { margin-bottom: 2rem; }
 
 .hero-facts {

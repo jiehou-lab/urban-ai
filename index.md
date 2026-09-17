@@ -65,6 +65,17 @@ planning documents, and treating bias, privacy, transparency and accountability 
   living, the sensitivity analyses and the bias audits will still give you something to argue with.</p>
 </div>
 
+## Offered by
+
+<ul class="partners">
+  <li><strong><a href="https://msu.edu">Michigan State University</a></strong>
+      <span>MSU AI-Ready Initiative</span></li>
+  <li><strong><a href="https://www.canr.msu.edu/spdc/">School of Planning, Design and Construction</a></strong>
+      <span>Urban and Regional Planning — Dr. Si Chen, Principal Investigator</span></li>
+  <li><strong><a href="https://cmse.msu.edu/">Department of Computational Mathematics, Science and Engineering</a></strong>
+      <span>Dr. Jie Hou, Co-Principal Investigator</span></li>
+</ul>
+
 ## Get started
 
 <p class="hero-cta">

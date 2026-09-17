@@ -30,7 +30,8 @@ permalink: /team/
   on teaching coding in the age of AI through ACM SIGCSE, including a hands-on tutorial on process feedback at
   the 2025 SIGCSE Technical Symposium. In Urban AI he designs the AI/ML components and makes sure every
   workflow is usable by students with no programming background.</p>
-  <p class="muted">Leads: Classes 1-2, 3-2, 4-1, 4-2, co-leads 3-1. AI/ML design, tool selection, website.</p>
+  <p class="muted">Leads: Classes 1-2, 3-2, 4-1, 4-2, co-leads 3-1. AI/ML design, tool selection, website.<br>
+  <a href="https://jiehou-lab.github.io/">jiehou-lab.github.io</a></p>
 </div>
 
 <div class="person">
