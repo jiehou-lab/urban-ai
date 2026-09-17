@@ -37,7 +37,7 @@ permalink: /team/
 <div class="person">
   <div class="avatar" aria-hidden="true">ST</div>
   <h3>Sean Tian</h3>
-  <p class="role">Graduate Teaching Assistant · Analytics labs<br>
+  <p class="role">Graduate Teaching Assistant<br>
   School of Planning, Design and Construction, MSU</p>
   <p>Runs the analytic labs — k-means clustering, spatial clustering, time series and text mining — including
   the TA demo, the breakout, and feedback on what teams produce.</p>
@@ -47,7 +47,7 @@ permalink: /team/
 <div class="person">
   <div class="avatar" aria-hidden="true">YG</div>
   <h3>Yura Gao</h3>
-  <p class="role">Graduate Teaching Assistant · Decision support labs<br>
+  <p class="role">Graduate Teaching Assistant<br>
   Department of Computational Mathematics, Science and Engineering, MSU</p>
   <p>Runs the decision-support labs — risk response and the DSS AI lab — and supports teams as they build
   their scenario comparisons and final recommendations.</p>
