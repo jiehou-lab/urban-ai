@@ -18,7 +18,6 @@ permalink: /team/
   taught smart cities and urban modeling to students from many backgrounds, in person and online, and
   developed <em>Smart Cities, Urban Informatics and Urban Design</em> at the University of Oklahoma before
   bringing related content into UP&nbsp;478 at MSU.</p>
-  <p class="muted">Leads: Classes 1-1, 2-1, 2-2, co-leads 3-1. Urban content, cases, and assessment design.</p>
 </div>
 
 <div class="person">
@@ -30,8 +29,7 @@ permalink: /team/
   on teaching coding in the age of AI through ACM SIGCSE, including a hands-on tutorial on process feedback at
   the 2025 SIGCSE Technical Symposium. In Urban AI he designs the AI/ML components and makes sure every
   workflow is usable by students with no programming background.</p>
-  <p class="muted">Leads: Classes 1-2, 3-2, 4-1, 4-2, co-leads 3-1. AI/ML design, tool selection, website.<br>
-  <a href="https://jiehou-lab.github.io/">jiehou-lab.github.io</a></p>
+  <p class="muted"><a href="https://jiehou-lab.github.io/">jiehou-lab.github.io</a></p>
 </div>
 
 <div class="person">
@@ -41,7 +39,6 @@ permalink: /team/
   School of Planning, Design and Construction, MSU</p>
   <p>Runs the analytic labs — k-means clustering, spatial clustering, time series and text mining — including
   the TA demo, the breakout, and feedback on what teams produce.</p>
-  <p class="muted">Leads the labs in Meetings 3, 4 and 7; co-leads the Meeting 2 lab with Dr. Hou.</p>
 </div>
 
 <div class="person">
@@ -51,7 +48,6 @@ permalink: /team/
   Department of Computational Mathematics, Science and Engineering, MSU</p>
   <p>Runs the decision-support labs — risk response and the DSS AI lab — and supports teams as they build
   their scenario comparisons and final recommendations.</p>
-  <p class="muted">Leads the labs in Meetings 5 and 6; co-leads the Meeting 8 LLM lab with Dr. Hou.</p>
 </div>
 
 </div>
