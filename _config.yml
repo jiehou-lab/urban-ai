@@ -25,6 +25,7 @@ course:
   register_url: "https://msu.co1.qualtrics.com/jfe/form/SV_9yizxIOZJVuss6y"   # Qualtrics registration
   teams_url: ""              # Microsoft Teams site — leave empty until approved; renders as plain underlined text
   zoom_url: "#"              # Zoom meeting link
+  syllabus_url: "/assets/Urban_AI_Syllabus_Fall_2026.pdf"   # course syllabus (PDF)
   repo_url: "https://github.com/jiehou-lab/urban-ai"
 
 # Hidden while under revision (pages still build, just not linked here):
