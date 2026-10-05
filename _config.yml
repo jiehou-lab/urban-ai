@@ -20,7 +20,7 @@ course:
   meeting_length: "2 hours"
   format: "Online"
   cohort_label: "Cohort 1 · Fall 2026"
-  cohort_dates: "Wed & Fri, 5:30–7:30 PM ET · Oct 28 – Nov 23, 2026"
+  cohort_dates: "Mon & Wed, 5:30–7:30 PM ET · Oct 28 – Nov 23, 2026"
   cohort_status: "Dates tentative — confirm before publishing"
   register_url: "https://msu.co1.qualtrics.com/jfe/form/SV_9yizxIOZJVuss6y"   # Qualtrics registration
   teams_url: ""              # Microsoft Teams site — leave empty until approved; renders as plain underlined text

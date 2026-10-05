@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Schedule"
-subtitle: "Eight meetings of 2 hours, twice a week for four weeks. Sixteen hours total."
+subtitle: "Eight meetings, twice a week for four weeks."
 eyebrow: "Cohort 1 · Fall 2026"
 permalink: /schedule/
 ---
@@ -20,79 +20,60 @@ permalink: /schedule/
 <ol class="timeline">
 
 <li>
-  <p class="when">Meeting 1 · Week 1</p>
+  <p class="when">Meeting 1 · Week 1 · Wed 28 Oct</p>
   <h3>Welcome &amp; What Is Urban AI?</h3>
-  <p><strong>Orientation (30 min)</strong> — how the course runs, approved AI tools, privacy and data rules,
-  the AI readiness pre-survey, and the AI Use Log you will keep for four weeks.<br>
-  <strong>Class 1-1 (60 min)</strong> — Urban analytics and smart cities to urban AI; how planning decisions
-  actually get made; what a decision support system is. <em>Si Chen</em><br>
-  <strong>Discussion Forum A launches (30 min)</strong> — real-world cases: where is Urban AI already deciding
-  things? Post one case and summarize your group's discussion into a short slide.</p>
+  <p><strong>Orientation (30 min)</strong> — introduction to the learning experience, privacy and data rules, the AI Use Log, and the AI readiness pre-survey.<br>
+  <strong>Class 1-1 (60 min)</strong> — urban analytics and smart cities to urban AI; how planning decisions get made; what a decision support system is. <em>Si Chen</em><br>
+  <strong>Discussion Forum A launches (30 min)</strong> — where is Urban AI already deciding things?</p>
 </li>
 
 <li>
-  <p class="when">Meeting 2 · Week 1</p>
+  <p class="when">Meeting 2 · Week 1 · Mon 2 Nov</p>
   <h3>AI Basics for Urban Problems</h3>
-  <p><strong>Class 1-2 (60 min)</strong> — Data, features, models, training and inference in plain language;
-  supervised versus unsupervised; how language models differ; the failure modes worth memorizing. <em>Jie Hou</em><br>
-  <strong>Lab (60 min)</strong> — Hands-on with ready-made AI apps — image classification, generation, text
-  mining — plus a first k-means clustering run. <em>Jie Hou · Sean</em></p>
+  <p><strong>Class 1-2 (60 min)</strong> — data, features, models, training and inference; machine learning. <em>Jie Hou</em><br>
+  <strong>Lab (60 min)</strong> — clustering analysis. <em>Jie Hou · Sean Tian</em></p>
 </li>
 
 <li>
-  <p class="when">Meeting 3 · Week 2</p>
+  <p class="when">Meeting 3 · Week 2 · Wed 4 Nov</p>
   <h3>Urban Analytic Models I</h3>
-  <p><strong>Class 2-1 (60 min)</strong> — Site analysis, weighted suitability, accessibility and simulation:
-  what these models assume, and where a value judgment hides inside a technical choice. <em>Si Chen</em><br>
-  <strong>Lab (60 min)</strong> — Spatial analysis and clustering: build a neighborhood typology and watch how
-  the number of groups changes who gets grouped with whom. <em>Sean</em></p>
+  <p><strong>Class 2-1 (60 min)</strong> — urban data sources, site analysis. <em>Si Chen</em><br>
+  <strong>Lab (60 min)</strong> — spatial analysis and clustering. <em>Sean Tian</em></p>
 </li>
 
 <li>
-  <p class="when">Meeting 4 · Week 2</p>
+  <p class="when">Meeting 4 · Week 2 · Mon 9 Nov</p>
   <h3>Urban Analytic Models II</h3>
-  <p><strong>Class 2-2 (60 min)</strong> — Optimization, multi-objective tradeoffs, scenario testing and
-  sensitivity: when the ranking flips, the answer was about your weights. <em>Si Chen</em><br>
-  <strong>Lab (60 min)</strong> — Time series analysis on an urban signal, including a forecast that breaks
-  when the underlying conditions change. <em>Sean</em></p>
+  <p><strong>Class 2-2 (60 min)</strong> — AI-augmented urban analytic models. <em>Si Chen</em><br>
+  <strong>Lab (60 min)</strong> — time series analysis. <em>Sean Tian</em></p>
 </li>
 
 <li>
-  <p class="when">Meeting 5 · Week 3</p>
+  <p class="when">Meeting 5 · Week 3 · Wed 11 Nov</p>
   <h3>Decision Support Systems I</h3>
-  <p><strong>Class 3-1 (60 min)</strong> — DSS categories — data-driven, model-driven, knowledge-driven,
-  communication-driven, document-driven — with deployed cases examined end to end. <em>Jie Hou &amp; Si Chen</em><br>
-  <strong>Lab (60 min)</strong> — Risk-response DSS: score alternatives against weighted criteria, then stress
-  test whether the ranking survives a change in those weights. <em>Yura</em></p>
+  <p><strong>Class 3-1 (60 min)</strong> — decision support systems (DSS) — data, model, design, and application. <em>Jie Hou &amp; Si Chen</em><br>
+  <strong>Lab (60 min)</strong> — risk-response DSS. <em>Yura Gao</em></p>
 </li>
 
 <li>
-  <p class="when">Meeting 6 · Week 3</p>
+  <p class="when">Meeting 6 · Week 3 · Mon 16 Nov</p>
   <h3>Decision Support Systems II</h3>
-  <p><strong>Class 3-2 (60 min)</strong> — AI-enhanced decision support: human-in-the-loop patterns, how to
-  evaluate a system beyond model accuracy, and the failure modes that show up in practice. <em>Jie Hou</em><br>
-  <strong>Lab (60 min)</strong> — DSS AI Lab: run two scenarios end to end and compare them on the same
-  criteria. <em>Yura</em></p>
+  <p><strong>Class 3-2 (60 min)</strong> — AI-enhanced decision support systems. <em>Jie Hou</em><br>
+  <strong>Lab (60 min)</strong> — DSS AI Lab. <em>Yura Gao</em></p>
 </li>
 
 <li>
-  <p class="when">Meeting 7 · Week 4</p>
+  <p class="when">Meeting 7 · Week 4 · Wed 18 Nov</p>
   <h3>Language Models in Decision Support</h3>
-  <p><strong>Class 4-1 (60 min)</strong> — What language models are useful for in a planning workflow,
-  grounding answers in real documents, prompting patterns, and how to catch a confident wrong answer.
-  <em>Jie Hou</em><br>
-  <strong>Lab (60 min)</strong> — Text mining and clustering on community document datasets: surface the themes, then
-  explore the topics. <em>Jie Hou &amp; Sean</em></p>
+  <p><strong>Class 4-1 (60 min)</strong> — what language models are useful for in the decision-making process. <em>Jie Hou</em><br>
+  <strong>Lab (60 min)</strong> — text mining and clustering on planning documents. <em>Jie Hou · Sean Tian</em></p>
 </li>
 
 <li>
-  <p class="when">Meeting 8 · Week 4</p>
-  <h3>LLM Lab, Ethics, and Wrap-Up</h3>
-  <p><strong>Lab (45 min)</strong> — LLM Lab: grounded versus ungrounded answers over a real planning document,
-  and a hallucination log. <em>Jie Hou &amp; Yura</em><br>
-  <strong>Class 4-2 (45 min)</strong> — AI ethics: bias, equity, privacy, transparency, accountability. <em>Jie Hou</em><br>
-  <strong>Discussion Forum B and reflection (30 min)</strong> — whose city does the model see? Team share-outs,
-  reflection, and the post-survey.</p>
+  <p class="when">Meeting 8 · Week 4 · Mon 23 Nov</p>
+  <h3>AI Ethics and Wrap-Up</h3>
+  <p><strong>Class 4-2 (45 min)</strong> — AI ethics: bias, equity, privacy, transparency, accountability. <em>Jie Hou</em><br>
+  <strong>Discussion Forum B &amp; reflection (30 min)</strong> — how human–AI interaction will change decision-making in planning; conclusion of the learning experience, and the post-survey.</p>
 </li>
 
 </ol>
