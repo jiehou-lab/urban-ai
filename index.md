@@ -82,7 +82,7 @@ The full syllabus — learning outcomes, the week-by-week schedule, what is expe
 policy — is a five-page PDF.
 
 <p class="hero-cta">
-  <a class="btn btn-ghost" href="{{ site.course.syllabus_url | relative_url }}">Download the syllabus (PDF)</a>
+  <a class="btn btn-ghost" href="{{ site.course.syllabus_url | relative_url }}" target="_blank" rel="noopener">Open the syllabus (PDF)</a>
 </p>
 
 ## Get started
@@ -90,7 +90,7 @@ policy — is a five-page PDF.
 <p class="hero-cta">
   <a class="btn" href="{{ site.course.register_url }}">Register</a>
   <a class="btn btn-ghost" href="{{ '/schedule/' | relative_url }}">Full schedule</a>
-  <a class="btn btn-ghost" href="{{ site.course.syllabus_url | relative_url }}">Syllabus (PDF)</a>
+  <a class="btn btn-ghost" href="{{ site.course.syllabus_url | relative_url }}" target="_blank" rel="noopener">Syllabus (PDF)</a>
 </p>
 
 <p class="muted">{{ site.course.cohort_label }} · {{ site.course.cohort_dates }}<br>
