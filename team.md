@@ -39,14 +39,10 @@ permalink: /team/
   Postdoctoral Research Fellow, Pulte Institute for Global Development, University of Notre Dame</p>
   <p>Dr. Wen works on city networks and on the text-analysis methods this course teaches: social network
   analysis, text mining, natural language processing, econometrics, and GIS. Her research takes a relational
-  view of urban development, building and analyzing networks of innovation, transportation, migration, trade,
-  and stakeholder communication to ask whether a city's position in them shapes its ability to grow, adapt,
-  and recover. She received her Ph.D. in Urban and Regional Planning from Florida State University in 2025.</p>
-  <p>Her study with Li Fang and Jie Hou used a deep learning language model to trace how the meanings of
-  twelve planning research topics shifted across thirty years of three planning journals — the same kind of
-  analysis students run in the Week 4 lab, at research scale.</p>
-  <p class="muted"><a href="https://aylawen.weebly.com/">aylawen.weebly.com</a> ·
-  <a href="https://doi.org/10.1177/08854122251360799">Wen, Fang &amp; Hou (2025), <em>Journal of Planning Literature</em></a></p>
+  view of urban development, building networks of innovation, transportation, migration, trade, and
+  stakeholder communication to ask whether a city's position in them shapes its ability to grow, adapt, and
+  recover. She received her Ph.D. in Urban and Regional Planning from Florida State University in 2025.</p>
+  <p class="muted"><a href="https://aylawen.weebly.com/">aylawen.weebly.com</a></p>
 </div>
 
 <div class="person">

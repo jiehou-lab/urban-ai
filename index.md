@@ -74,6 +74,8 @@ planning documents, and treating bias, privacy, transparency and accountability 
       <span>Urban and Regional Planning — Dr. Si Chen, Principal Investigator</span></li>
   <li><strong><a href="https://cmse.msu.edu/">Department of Computational Mathematics, Science and Engineering</a></strong>
       <span>Dr. Jie Hou, Co-Principal Investigator</span></li>
+  <li><strong><a href="https://pulte.nd.edu/">Pulte Institute for Global Development</a></strong>
+      <span>University of Notre Dame — Dr. Yijia Wen, Co-Instructor</span></li>
 </ul>
 
 ## The syllabus
