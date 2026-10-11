@@ -65,8 +65,8 @@ permalink: /schedule/
 <li>
   <p class="when">Meeting 7 · Week 4 · Wed 18 Nov</p>
   <h3>Language Models in Decision Support</h3>
-  <p><strong>Class 4-1 (60 min)</strong> — what language models are useful for in the decision-making process. <em>Jie Hou</em><br>
-  <strong>Lab (60 min)</strong> — text mining and clustering on planning documents. <em>Jie Hou · Sean Tian</em></p>
+  <p><strong>Class 4-1 (60 min)</strong> — what language models are useful for in the decision-making process. <em>Yijia Wen</em><br>
+  <strong>Lab (60 min)</strong> — text mining and clustering on planning documents. <em>Yijia Wen · Sean Tian</em></p>
 </li>
 
 <li>
